@@ -1,6 +1,6 @@
 # 0x03. Queuing System in JS
 
-## GENERAL
+## GENERAL REQUIREMENT
 
 - How to run a Redis server on your machine
 - How to run simple operations with the Redis client
